@@ -1,4 +1,4 @@
-# Data-Manipulation-Practice
+# Data Manipulation Practice
 
 Pandas and Numpy are the two core packages for a data analyst. Of the two packages, Pandas is the primary package for us to manipulate dataset when doing data analytics job, such as indexing, sorting, aggregation, transforming, and so on.
 
